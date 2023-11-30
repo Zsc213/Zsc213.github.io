@@ -236,7 +236,7 @@ aside:
       link: https://github.com/Zsc213
   card_announcement:
     enable: true
-    content: This is my Blog(test)
+    content: Testing
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
